@@ -1,16 +1,17 @@
-### Hi there 👋
+## Ola!! Me chamo André Gaspar
 
-<!--
-**AndreGaxp/AndreGaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado pela programação em sí, me sinto em paz codando e ouvindo lo-fi, por isso estudo Programação e Desenvolvimento Web do meu jeito desde Junho de 2022, quando ganhei um curso pela Udemy de aniversário. Atualmente estudo através do curso da DevMedia, documentações, tiro duvidas utilizando o ChatGPT, e em algumas comunidades Dev no Discord. Tudo que eu aprendo deixo neste perfil, gosto muito de ensinar e aprender qualquer coisa com qualquer pessoa. Caso queira aprender algo, me ensinar algo, desenvolver algum projeto em conjunto, tirar duvidas sobre meus projetos, não exite em entrar em contato! 
 
-Here are some ideas to get you started:
+## Tecnologias que utilizo no dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<div align= "center">
+    <img imgalign="center" alt="HTML15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img imgalign="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img imgalign="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img imgalign="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img imgalign="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
