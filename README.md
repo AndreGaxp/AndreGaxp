@@ -12,7 +12,6 @@ Sou apaixonado pela programação em sí, me sinto em paz codando e ouvindo lo-f
     <img imgalign="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <br>
     <br>
-
     Atualmente focado em melhorar minha base no Front End estudando também Front end para Mobile, para começar os estudos na programação Back End 
     
 </div>
