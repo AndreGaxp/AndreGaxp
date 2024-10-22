@@ -1,4 +1,4 @@
-# Prazer!! 🤙🏼 Me chamo André Gaspar e desenvolvedor Front-End 🖱️
+# Prazer!! 🤙🏼 Me chamo André Gaspar e sou desenvolvedor Front-End 🖱️
 
 Estou no ultimo semestre de Analise e Desenvolvimento de Sistemas, onde tive meu primeiro contato com o desenvolvimento Front-end Web. Desde então a matéria que mais me familiarizei e comecei a aprofundar mais meus estudos, no começo de 2024 conheci o React Native e "redirecionei" meus estudos pra Front-End mobile.
 
