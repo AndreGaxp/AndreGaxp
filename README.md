@@ -1,7 +1,5 @@
 # Praze 🤙🏼 Me chamo André Gaspar e sou desenvolvedor Mobile 🖱️
 
-Estou no ultimo semestre de Analise e Desenvolvimento de Sistemas, onde tive meu primeiro contato com o desenvolvimento Front-end Web. Desde então a matéria que mais me familiarizei e comecei a aprofundar mais meus estudos, no começo de 2024 conheci o React Native e "redirecionei" meus estudos pra Front-End mobile.
-
 ## Tecnologias que possuo conhecimento ⌨️
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
