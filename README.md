@@ -1,4 +1,4 @@
-# Praze 🤙🏼 Me chamo André Gaspar e sou desenvolvedor Mobile 🖱️
+# Prazer 🤙🏼 Me chamo André Gaspar e sou desenvolvedor Mobile 🖱️
 
 ## Tecnologias que possuo conhecimento ⌨️
 
