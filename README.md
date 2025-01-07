@@ -1,4 +1,6 @@
-# Prazer 🤙🏼 Me chamo André Gaspar e sou desenvolvedor Mobile 🖱️
+# Front End Mobile Developer
+
+Sou desenvolvedor mobile em início de carreira, dedicado a aprender, explorar e me desenvolver na área até conseguir minha primeira vaga no mercado!
 
 ## Tecnologias que possuo conhecimento ⌨️
 
